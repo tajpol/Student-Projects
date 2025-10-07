@@ -1,2 +1,2 @@
 # Student-Projects
-Individual &amp; Group projects - MS Accountancy
+Individual &amp; Group projects 
